@@ -1,46 +1,51 @@
 # 🌐 Personal Portfolio Website
 
-This is my **personal portfolio website**, built to present who I am, my skills, and the projects I have worked on as a **Software Engineering student**.
-
-The website is fully responsive, interactive, and designed using **modern web technologies**.
+This is my personal portfolio website designed to showcase my profile, skills, education, and projects as a Software Engineering student.  
+It reflects my journey in web development and my ability to build responsive and interactive web applications using modern technologies.
 
 ---
 
 ## 👤 About Me
 
-I am **Eyuel Ashenafi**, a Software Engineering student at **Adama Science and Technology University (ASTU)**.  
-I have strong foundations in programming, databases, and software engineering principles, and I am passionate about building modern, interactive web applications.
+My name is **Eyuel Ashenafi**, a Software Engineering student at **Adama Science and Technology University (ASTU)**.
+
+I am passionate about software development, problem-solving, and building clean, user-friendly web applications.  
+My focus areas include frontend development, backend fundamentals, and database systems.
 
 ---
 
 ## 🚀 Features
 
-- Responsive **mobile-first design**
-- Smooth scrolling navigation
-- Interactive menu buttons (About, Skills, Projects, Contact)
-- Animated **skills progress bars**
-- Scroll-based section animations
-- Clean and modern UI design
-- Social media links
-- Easy deployment with **GitHub Pages**
+- Fully responsive design (mobile, tablet, desktop)
+- Clean and modern user interface
+- Smooth navigation between sections
+- Interactive UI elements
+- Skills section with visual progress indicators
+- Projects showcase section
+- Contact section for communication
+- Lightweight and fast performance
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure and content
-- **CSS3** – Styling, animations, and responsiveness
+- **HTML5** – Page structure and content
+- **CSS3** – Styling, layout, and animations
 - **JavaScript (ES6)** – Interactivity and dynamic behavior
-- **Font Awesome** – Icons
-- **Git & GitHub** – Version control and hosting
+- **Font Awesome** – Icons and visual enhancements
+- **Git & GitHub** – Version control and project hosting
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 portfolio/
 │── index.html
-│── profile.jpg
 │── Eyuel_Ashenafi_CV.pdf
+│── photo_2026-02-02_14-56-34.jpg
+│── ScriptsStr/
+│   └── headportfolio.js
+│── StyleStr/
+│   └── headstyle.css
 │── README.md
